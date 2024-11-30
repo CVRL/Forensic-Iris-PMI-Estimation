@@ -1,4 +1,4 @@
-# Forensic Iris Image Synthesis
+# Forensic Iris Image-Based Post-Mortem Interval Estimation
 
 ## IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2025
 
