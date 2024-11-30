@@ -30,6 +30,9 @@ conda env create -f environment.yml
 
 ***Note: Make sure you have provided all the valid paths in the script.***
 
+## Obtaining the Trained Model Weights
+The trained model weights can be downloaded at [pmi-estimation-model-checkpoints](https://notredame.app.box.com/folder/296254765346).
+
 ## Citation
 Please cite our paper if you use any part of our code or data.
 ```
