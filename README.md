@@ -30,7 +30,7 @@ conda env create -f environment.yml
 ***Note: Make sure you have provided all the valid paths in the script.***
 
 ### Obtaining the Trained Model Weights
-The trained model weights can be downloaded from [this box folder.](https://notredame.box.com/s/5nugb0k602d28va3exlkzkec2wzokyh3).
+The trained model weights can be downloaded from this [Box folder](https://notredame.box.com/s/5nugb0k602d28va3exlkzkec2wzokyh3).
 
 ## Citation
 Please cite our paper if you use any part of our code or data.
@@ -40,6 +40,7 @@ Please cite our paper if you use any part of our code or data.
   author    = {Bhuiyan, Rasel Ahmed and Czajka, Adam},
   booktitle = {IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
   title     = {Forensic Iris Image-Based Post-Mortem Interval Estimation},
-  year      = {2025}
+  year      = {2025},
+  pages     = {1--8}
 }
 ```
