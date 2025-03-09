@@ -36,11 +36,12 @@ The trained model weights can be downloaded from this [Box folder](https://notre
 Please cite our paper if you use any part of our code or data.
 
 ```
-@InProceedings{bhuiyan2024forensic,
-  author    = {Bhuiyan, Rasel Ahmed and Czajka, Adam},
-  booktitle = {IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
-  title     = {Forensic Iris Image-Based Post-Mortem Interval Estimation},
-  year      = {2025},
-  pages     = {1--8}
+@InProceedings{Bhuiyan_2025_WACV,
+    author    = {Bhuiyan, Rasel Ahmed and Czajka, Adam},
+    title     = {Forensic Iris Image-Based Post-Mortem Interval Estimation},
+    booktitle = {Proceedings of the Winter Conference on Applications of Computer Vision (WACV)},
+    month     = {February},
+    year      = {2025},
+    pages     = {4258-4267}
 }
 ```
